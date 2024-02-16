@@ -1,0 +1,15 @@
+.divnostros {
+  background-color: red;
+  width: 100%;
+  height: 155% !important;
+}
+.divnostros h1 {
+  color: white;
+  text-align: center;
+  font-size: 4rem;
+}
+
+.pnosotros{
+    padding-left: 35px;
+    padding-right: 35px;
+}

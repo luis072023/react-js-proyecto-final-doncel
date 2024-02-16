@@ -1,0 +1,43 @@
+.img{
+    width: 170px;
+    height: 170px;
+
+}
+.col{
+    display: center;
+    flex-direction: start;
+}
+.roww{
+    display: center;
+    flex-wrap: wrap;}
+
+
+.texto{
+    font-size: 25px;
+    font-weight: 400
+    
+}
+
+.detalle{
+    padding: 10px 25px; 
+    border-radius: 15px; 
+    border: 2px solid rgb(255, 0, 0); 
+    background-color: black; 
+    color: white; 
+    font-size:15px;
+    
+}
+.card-body{
+    margin: 15px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.producto{
+    width: 300px; 
+    border: 1px solid red;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(241, 26, 26, 0.1);
+    overflow: hidden;
+}
